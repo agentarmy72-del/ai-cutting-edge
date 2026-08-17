@@ -1,0 +1,7 @@
+# Local operating state and secrets never belong in the public archive
+.env
+*.token
+*.secret
+state/
+private/
+.DS_Store
