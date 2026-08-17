@@ -15,6 +15,15 @@ This is the public knowledge and publication archive for the **AI cutting edge**
 - **Public publication ledger:** [`LEDGER.md`](LEDGER.md)
 - **How new editions are stored:** [`PUBLISHING.md`](PUBLISHING.md)
 
+## Find practical value
+
+The **[Practical Library](library/)** is the easiest place to find work that remains useful after a briefing:
+
+- **[Guides](library/guides/)** — reusable methods, explainers, checklists, and repository assessments.
+- **[Public skills](library/skills/)** — executable, testable agent procedures when the evidence and implementation are strong enough.
+
+The Library is an index, not a duplicate store. Each artifact has one canonical file.
+
 ## Telegram community
 
 The companion group is **AI cutting edge**. A permanent public `t.me` join URL has not yet been supplied, so this repository does not publish a guessed or private-internal Telegram link. Once a permanent link exists, it will be added here and to the repository’s Website field.
@@ -25,6 +34,7 @@ The companion group is **AI cutting edge**. A permanent public `t.me` join URL h
 - A chronological public ledger entry linking to each edition.
 - Selected creator-method guides that remain useful beyond one post.
 - Selected repository guides that remain useful beyond one trend window.
+- A Library index that makes durable guides and qualified public skills easy to find.
 - Public citations, evidence status, limitations, and review dates.
 
 ## What never gets stored
@@ -43,7 +53,7 @@ Private research notes, inbox material, correspondence, credentials, client info
 
 ## Initial contents
 
-The repository launches with three approved card-format samples and two approved example guides. The samples predate the five-item minimum, demonstrate style only, and are not represented as live recurring editions.
+The repository launches with three approved card-format samples, two approved example guides, and a Practical Library that indexes durable value. The samples predate the five-item minimum and mandatory GitHub footer, demonstrate style only, and are not represented as live recurring editions.
 
 ## Reuse
 

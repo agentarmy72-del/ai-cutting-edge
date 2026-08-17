@@ -4,6 +4,8 @@ type: repository-guide
 status: approved-example
 bot_index: false
 audience: practical-ai
+library_route: repository-guide
+library_index: ../../library/README.md
 repository: jundot/omlx
 repository_url: https://github.com/jundot/omlx
 license: Apache-2.0
@@ -13,6 +15,8 @@ tags: [local-ai, inference, apple-silicon, privacy, open-source]
 ---
 
 # oMLX — local AI inference on Apple Silicon
+
+**Library route:** Repository guide indexed for practical discovery; the canonical body remains in the GitHub Radar guide folder.
 
 ## What it does
 

@@ -10,6 +10,8 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-08-17 | Creator guide | [CLI-first agent tooling](creators/guides/cli-first-agent-tools.md) | Approved example | 2 |
 | 2026-08-17 | Repository guide | [oMLX — local AI inference on Apple Silicon](github/guides/jundot-omlx.md) | Approved example | 3 |
 | 2026-08-17 | Editorial policy | [Five-item normal-edition floor](PUBLISHING.md#edition-size) | Active policy | — |
+| 2026-08-17 | Public library | [Practical Library](library/) | Active index | 2 |
+| 2026-08-17 | Editorial policy | [Library routing and briefing footer](PUBLISHING.md#briefing-footer) | Active policy | — |
 
 ## Status vocabulary
 
@@ -18,6 +20,7 @@ This append-only ledger records material made publicly available through AI Cutt
 - **Updated guide** — reviewed durable knowledge updated after a material development.
 - **Correction** — a transparent amendment that leaves the original ledger history intact.
 - **Active policy** — a current public operating rule that governs future editions.
+- **Active index** — a public browse surface linking verified durable artifacts without duplicating their bodies.
 
 ## Ledger law
 

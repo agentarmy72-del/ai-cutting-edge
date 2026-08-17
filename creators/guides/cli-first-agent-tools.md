@@ -4,6 +4,8 @@ type: process-guide
 status: approved-example
 bot_index: false
 audience: practical-ai
+library_route: guide
+library_index: ../../library/README.md
 source_creator: Charlie Automates
 source_url: https://www.instagram.com/reel/DV9kzWHDqSP/
 evidence: claimed-with-directional-corroboration
@@ -12,6 +14,8 @@ tags: [agents, tooling, cli, mcp, context-efficiency]
 ---
 
 # CLI-first agent tooling
+
+**Library route:** Practical guide. It is not published as an installable skill because the broader efficiency claim lacks a matched benchmark and runnable verification artifact.
 
 ## Problem it solves
 

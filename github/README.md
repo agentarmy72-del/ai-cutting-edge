@@ -2,7 +2,7 @@
 
 **Question:** What useful open-source AI software is available, and is it practical and credible enough to try?
 
-Dated editions live under `YYYY/MM/`. Projects with continuing practical value may receive a reviewed guide under [`guides/`](guides/).
+Dated editions live under `YYYY/MM/`. Projects with continuing practical value may receive one canonical reviewed guide under [`guides/`](guides/), indexed from the [Practical Library](../library/).
 
 ## Current contents
 
@@ -18,3 +18,4 @@ Dated editions live under `YYYY/MM/`. Projects with continuing practical value m
 - Suppress unchanged repeats across all windows.
 - Link directly to the canonical repository.
 - Publish five to seven qualifying repositories. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.
+- End every delivered briefing with the [GitHub archive and Practical Library](https://github.com/agentarmy72-del/ai-cutting-edge) footer.

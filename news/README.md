@@ -2,7 +2,7 @@
 
 **Question:** What materially changed in AI, and who does it affect?
 
-Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A separate guide is created only for continuing changes such as model capability, pricing, standards, regulation, security posture, or platform availability.
+Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A separate guide under [`../library/guides/`](../library/guides/) is created only for continuing changes such as model capability, pricing, standards, regulation, security posture, or platform availability.
 
 ## Current sample
 
@@ -16,3 +16,4 @@ Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A 
 - Explain the practical implication, not just the headline.
 - Label vendor benchmarks and early claims.
 - Publish five to seven qualifying cards. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.
+- End every delivered briefing with the [GitHub archive and Practical Library](https://github.com/agentarmy72-del/ai-cutting-edge) footer.
