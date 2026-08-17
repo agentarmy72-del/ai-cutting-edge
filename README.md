@@ -34,7 +34,7 @@ Private research notes, inbox material, correspondence, credentials, client info
 ## Publishing principles
 
 1. Public sources and direct links.
-2. No forced quota and no filler.
+2. Five to seven qualifying items per normal edition; fewer than five rolls forward silently rather than using filler. A shorter edition must be explicitly authorised and labelled with the reason.
 3. Stable-ID deduplication.
 4. Evidence and maturity labels where material.
 5. Exact archive only after successful Telegram delivery.
@@ -43,7 +43,7 @@ Private research notes, inbox material, correspondence, credentials, client info
 
 ## Initial contents
 
-The repository launches with the three approved format samples and two approved example guides. They establish the public structure without pretending the samples were live recurring editions.
+The repository launches with three approved card-format samples and two approved example guides. The samples predate the five-item minimum, demonstrate style only, and are not represented as live recurring editions.
 
 ## Reuse
 

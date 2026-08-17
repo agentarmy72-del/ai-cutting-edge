@@ -1,4 +1,4 @@
-> **Status:** Approved format sample. This was not sent as a live recurring edition.
+> **Status:** Approved card-format sample. It predates the five-item minimum and was not sent as a live recurring edition.
 
 ## Creator Round-up — Approved format sample
 **Historical completed-output sample** · format test only; no publication checkpoint advanced.

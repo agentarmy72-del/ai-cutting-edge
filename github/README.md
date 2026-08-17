@@ -17,3 +17,4 @@ Dated editions live under `YYYY/MM/`. Projects with continuing practical value m
 - Stars and velocity are context, not proof of quality.
 - Suppress unchanged repeats across all windows.
 - Link directly to the canonical repository.
+- Publish five to seven qualifying repositories. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.

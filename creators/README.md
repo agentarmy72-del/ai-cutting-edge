@@ -16,4 +16,4 @@ Dated editions live under `YYYY/MM/`. Reusable methods that pass the durable-kno
 - Raw posts are never re-summarised to meet a publication time.
 - Claims, demonstrations, and independently tested evidence remain distinct.
 - Promotional, generic, duplicate, or non-reusable material is suppressed.
-- No qualifying completed output means no post and no archive entry.
+- Publish five to seven qualifying methods. If fewer than five qualify, roll them forward with no post or archive entry; a shorter edition requires an explicit, visible exception label.

@@ -15,4 +15,4 @@ Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A 
 - Cluster duplicate coverage and suppress unchanged repeats.
 - Explain the practical implication, not just the headline.
 - Label vendor benchmarks and early claims.
-- Publish two to four strong cards; a maximum is not a quota.
+- Publish five to seven qualifying cards. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.

@@ -2,6 +2,13 @@
 
 This repository is the durable public layer behind the Telegram briefings. Telegram delivery and GitHub archival are related but separately replayable operations.
 
+## Edition size
+
+- A normal News, Creator, or GitHub edition contains five to seven qualifying items.
+- If fewer than five qualify, hold them over and publish nothing; do not use filler or lower the evidence bar.
+- A shorter edition is allowed only when explicitly authorised and must display `Short edition — <reason>` below its date.
+- Historical approved samples in this repository predate this rule and demonstrate card format only.
+
 ## Successful-edition sequence
 
 1. Collect candidates deterministically.

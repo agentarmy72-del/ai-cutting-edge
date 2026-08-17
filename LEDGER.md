@@ -9,6 +9,7 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-08-17 | GitHub Radar | [Approved format sample](github/2026/08/2026-08-17-approved-sample.md) | Approved sample | 3 |
 | 2026-08-17 | Creator guide | [CLI-first agent tooling](creators/guides/cli-first-agent-tools.md) | Approved example | 2 |
 | 2026-08-17 | Repository guide | [oMLX — local AI inference on Apple Silicon](github/guides/jundot-omlx.md) | Approved example | 3 |
+| 2026-08-17 | Editorial policy | [Five-item normal-edition floor](PUBLISHING.md#edition-size) | Active policy | — |
 
 ## Status vocabulary
 
@@ -16,6 +17,7 @@ This append-only ledger records material made publicly available through AI Cutt
 - **Published** — exact copy of a successfully delivered Telegram briefing.
 - **Updated guide** — reviewed durable knowledge updated after a material development.
 - **Correction** — a transparent amendment that leaves the original ledger history intact.
+- **Active policy** — a current public operating rule that governs future editions.
 
 ## Ledger law
 

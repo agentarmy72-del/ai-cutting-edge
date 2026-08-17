@@ -1,4 +1,4 @@
-> **Status:** Approved format sample. This was not sent as a live recurring edition.
+> **Status:** Approved card-format sample. It predates the five-item minimum and was not sent as a live recurring edition.
 
 ## AI News Brief — Approved format sample
 **Monday, 17 August** · Open weights, modular agents and AI provenance are today's practical signal.
