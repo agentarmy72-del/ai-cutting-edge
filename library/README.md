@@ -1,6 +1,6 @@
 # Practical Library
 
-This is the **find-value layer** of AI Cutting Edge: reusable knowledge created from the briefings, separated from the chronological post archive.
+This is the **find-value layer** of AI Cutting Edge: reusable AI and public-safe agency-marketing knowledge created from the briefings, separated from the chronological post archive.
 
 ## Browse
 
@@ -29,6 +29,6 @@ A creator calling something a “skill” does not make it one. A public skill n
 
 - Keep one canonical file for each artifact; the Library links to it rather than copying the body.
 - Preserve public sources, evidence status, limitations, and last-reviewed dates.
-- Add a ledger row only after the artifact and this index are publicly readable.
+- Commit the artifact, index update, and ledger row atomically; treat the row as valid only after all public URLs are readable and verified.
 - Never expose private ingestion records, receipts, internal IDs, client material, credentials, or local paths.
 - Do not force every briefing item to produce a durable artifact.

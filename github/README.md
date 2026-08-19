@@ -17,5 +17,5 @@ Dated editions live under `YYYY/MM/`. Projects with continuing practical value m
 - Stars and velocity are context, not proof of quality.
 - Suppress unchanged repeats across all windows.
 - Link directly to the canonical repository.
-- Publish five to seven qualifying repositories. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.
-- End every delivered briefing with the [GitHub archive and Practical Library](https://github.com/agentarmy72-del/ai-cutting-edge) footer.
+- Publish five to seven qualifying repositories normally. If three or four qualify, publish a daily short edition with exactly `**Short edition — <reason>**` below its date; with zero to two, hold them over and stay silent.
+- Apply the repository-wide [exact briefing-footer contract](../PUBLISHING.md#briefing-footer); the footer is the final line.

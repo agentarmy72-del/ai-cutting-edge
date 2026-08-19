@@ -16,5 +16,5 @@ Dated editions live under `YYYY/MM/`. Reusable methods that pass the durable-kno
 - Raw posts are never re-summarised to meet a publication time.
 - Claims, demonstrations, and independently tested evidence remain distinct.
 - Promotional, generic, duplicate, or non-reusable material is suppressed.
-- Publish five to seven qualifying methods. If fewer than five qualify, roll them forward with no post or archive entry; a shorter edition requires an explicit, visible exception label.
-- End every delivered briefing with the [GitHub archive and Practical Library](https://github.com/agentarmy72-del/ai-cutting-edge) footer.
+- Publish five to seven qualifying methods normally. If three or four qualify, publish a daily short edition with exactly `**Short edition — <reason>**` below its date; with zero to two, roll them forward with no post or archive entry.
+- Apply the repository-wide [exact briefing-footer contract](../PUBLISHING.md#briefing-footer); the footer is the final line.

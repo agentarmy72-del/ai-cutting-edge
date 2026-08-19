@@ -16,6 +16,7 @@ Guides turn worthwhile briefing material into reusable public Markdown for peopl
 
 - Creator-derived guides remain canonical under `creators/guides/`.
 - Repository guides remain canonical under `github/guides/`.
+- Marketing signal, playbook, and tool guides remain canonical under `marketing/guides/`.
 - Cross-product explainers and continuing News knowledge live under `library/guides/`.
 - Every canonical guide is indexed from [`library/README.md`](../README.md).
 

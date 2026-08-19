@@ -1,8 +1,8 @@
 # AI Cutting Edge
 
-**Practical AI intelligence, reusable methods, and open-source tools.**
+**Practical AI intelligence, agency marketing signals, reusable methods, and open-source tools.**
 
-This is the public knowledge and publication archive for the **AI cutting edge** Telegram community. It keeps useful briefing material accessible after a Telegram post moves up the chat and provides a clean, cited corpus for future community search and chatbot access.
+This is the public knowledge and publication archive for the **AI cutting edge** Telegram community and the public-safe Marketing Edge briefing. It keeps useful material accessible after a Telegram post moves up the chat and provides a clean, cited corpus for future search and chatbot access.
 
 ## Browse the briefings
 
@@ -11,6 +11,7 @@ This is the public knowledge and publication archive for the **AI cutting edge**
 | **AI News Brief** | What materially changed in AI, who it affects, and why it matters | [`news/`](news/) |
 | **Creator Round-up** | Reusable methods and workflows extracted from completed creator material | [`creators/`](creators/) |
 | **GitHub Radar** | Useful open-source AI software assessed for practicality, openness, and maturity | [`github/`](github/) |
+| **Marketing Edge Brief** | Agency-relevant signals, completed creator playbooks, and practical marketing tools | [`marketing/`](marketing/) |
 
 - **Public publication ledger:** [`LEDGER.md`](LEDGER.md)
 - **How new editions are stored:** [`PUBLISHING.md`](PUBLISHING.md)
@@ -31,6 +32,7 @@ The companion group is **AI cutting edge**. A permanent public `t.me` join URL h
 ## What gets stored
 
 - The exact final Markdown of every successfully delivered briefing.
+- Public-safe Marketing Edge editions; client/account-specific or personal-data-bearing follow-up is never stored.
 - A chronological public ledger entry linking to each edition.
 - Selected creator-method guides that remain useful beyond one post.
 - Selected repository guides that remain useful beyond one trend window.
@@ -39,21 +41,21 @@ The companion group is **AI cutting edge**. A permanent public `t.me` join URL h
 
 ## What never gets stored
 
-Private research notes, inbox material, correspondence, credentials, client information, local paths, internal receipt IDs, hidden prompts, or unreviewed ingestion output.
+Personal data/PII, confidential personal information, private research notes, inbox material, correspondence, credentials, client/account information, local paths, internal receipt IDs, hidden prompts, or unreviewed ingestion output.
 
 ## Publishing principles
 
 1. Public sources and direct links.
-2. Five to seven qualifying items per normal edition; fewer than five rolls forward silently rather than using filler. A shorter edition must be explicitly authorised and labelled with the reason.
+2. Five to seven qualifying items normally; three or four produce a clearly labelled daily short edition; zero to two roll forward silently. No filler or lowered evidence bar.
 3. Stable-ID deduplication.
 4. Evidence and maturity labels where material.
 5. Exact archive only after successful Telegram delivery.
 6. Archive failures retry the exact delivered output and never repost Telegram.
 7. Public knowledge is curated; not every daily item becomes a guide.
 
-## Initial contents
+## Current contents
 
-The repository launches with three approved card-format samples, two approved example guides, and a Practical Library that indexes durable value. The samples predate the five-item minimum and mandatory GitHub footer, demonstrate style only, and are not represented as live recurring editions.
+The repository contains three approved AI card-format samples, two approved example guides, an approved Marketing Edge dry-run awaiting private transport verification, plus a Practical Library that indexes durable value. GitHub archival readiness is tracked independently and does not block Telegram delivery. The AI samples predate the current daily normal/short-edition rule and mandatory GitHub footer, demonstrate style only, and are not represented as live recurring editions.
 
 ## Reuse
 

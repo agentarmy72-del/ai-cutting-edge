@@ -1,4 +1,4 @@
-> **Status:** Approved card-format sample. It predates the five-item minimum and mandatory GitHub footer, and was not sent as a live recurring edition.
+> **Status:** Approved card-format sample. It predates the current daily normal/short-edition rule and mandatory GitHub footer, and was not sent as a live recurring edition.
 
 ## Creator Round-up — Approved format sample
 **Historical completed-output sample** · format test only; no publication checkpoint advanced.

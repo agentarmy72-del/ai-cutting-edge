@@ -1,6 +1,6 @@
 # Public Publication Ledger
 
-This append-only ledger records material made publicly available through AI Cutting Edge. New rows are added only after the corresponding file has been pushed and its public URL verified.
+This append-only ledger records material made publicly available through AI Cutting Edge. A new row is committed atomically with its corresponding public file and counts as valid only after unauthenticated read-back verifies both the file and the ledger link.
 
 | Date | Type | Entry | Status | Sources |
 |---|---|---|---|---:|
@@ -25,6 +25,6 @@ This append-only ledger records material made publicly available through AI Cutt
 ## Ledger law
 
 - Never remove history to hide a correction; append a correction row.
-- Never add a live-edition row before successful Telegram delivery and public-file verification.
+- Never commit a live-edition row before successful Telegram delivery. After the atomic file-and-row push, archival remains incomplete until the public file matches the exact delivered Markdown and the public ledger link resolves.
 - Never expose private source-system identifiers.
 - The file link, date, briefing type, status, and source count are required.

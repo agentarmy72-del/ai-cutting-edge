@@ -15,5 +15,5 @@ Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A 
 - Cluster duplicate coverage and suppress unchanged repeats.
 - Explain the practical implication, not just the headline.
 - Label vendor benchmarks and early claims.
-- Publish five to seven qualifying cards. If fewer than five qualify, hold them over and stay silent; a shorter edition requires an explicit, visible exception label.
-- End every delivered briefing with the [GitHub archive and Practical Library](https://github.com/agentarmy72-del/ai-cutting-edge) footer.
+- Publish five to seven qualifying cards normally. If three or four qualify, publish a daily short edition with exactly `**Short edition — <reason>**` below its date; with zero to two, hold them over and stay silent.
+- Apply the repository-wide [exact briefing-footer contract](../PUBLISHING.md#briefing-footer); the footer is the final line.

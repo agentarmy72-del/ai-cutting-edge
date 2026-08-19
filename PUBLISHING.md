@@ -4,10 +4,11 @@ This repository is the durable public layer behind the Telegram briefings. Teleg
 
 ## Edition size
 
-- A normal News, Creator, or GitHub edition contains five to seven qualifying items.
-- If fewer than five qualify, hold them over and publish nothing; do not use filler or lower the evidence bar.
-- A shorter edition is allowed only when explicitly authorised and must display `Short edition — <reason>` below its date.
-- Historical approved samples in this repository predate this rule and demonstrate card format only.
+- A normal AI News, Creator, GitHub, or Marketing Edge edition contains five to seven qualifying items.
+- If three or four qualify, publish a daily short edition and display exactly `**Short edition — <reason>**` below its date.
+- If zero to two qualify, hold them over and publish nothing.
+- Never use filler or lower the evidence bar for either a normal or short edition.
+- Historical approved AI samples in this repository predate this daily normal/short-edition rule and demonstrate card format only.
 
 ## Briefing footer
 
@@ -24,13 +25,14 @@ This wording is deliberate. It links readers to the public archive and Library w
 1. Collect candidates deterministically.
 2. Apply the relevant briefing skill and public-safety gate.
 3. Append the exact GitHub footer as the final line.
-4. Deliver the final Markdown to the intended Telegram group.
+4. Deliver the final Markdown to the intended Telegram destination.
 5. Verify scheduler success, empty delivery error, and the exact rendered output.
 6. Write that exact output—without regeneration—to the matching dated archive path.
 7. Append one row to [`LEDGER.md`](LEDGER.md).
-8. Commit and push the archive file and ledger together.
-9. Fetch the public file URL and require a successful response.
-10. Mark the archive operation complete.
+8. Commit and push the archive file and ledger together as one atomic publication unit.
+9. Fetch the public archive URL without authentication and require a byte-for-byte match to the exact delivered Markdown.
+10. Fetch the public ledger, require the new row to be present, and require its archive link to resolve.
+11. Mark the archive operation complete only after both read-back checks pass.
 
 ## Paths
 
@@ -40,6 +42,8 @@ creators/YYYY/MM/YYYY-MM-DD.md
 creators/guides/<method-slug>.md
 github/YYYY/MM/YYYY-MM-DD.md
 github/guides/<owner>-<repo>.md
+marketing/YYYY/MM/YYYY-MM-DD.md
+marketing/guides/<slug>.md
 library/guides/<slug>.md
 library/skills/<skill-name>/SKILL.md
 ```
@@ -57,9 +61,9 @@ Apply this only after the exact edition archive succeeds:
 | Repeatable agent procedure with clear triggers, complete steps, failure behavior, provenance, and a real test | `library/skills/<skill-name>/SKILL.md`, indexed from the Library. |
 | Promotional, private, unsupported, or unsafe | Do not promote it. |
 
-Creator guides remain canonical under `creators/guides/`; repository guides remain canonical under `github/guides/`; continuing News and cross-product guides may live under `library/guides/`. Do not copy a guide body merely to centralize discovery.
+Creator guides remain canonical under `creators/guides/`; AI repository guides remain canonical under `github/guides/`; Marketing Edge guides remain canonical under `marketing/guides/`; continuing News and cross-product guides may live under `library/guides/`. Do not copy a guide body merely to centralize discovery.
 
-Add the artifact, Library index update, and separate ledger row in one commit, then verify each public URL. An optional artifact failure never rolls back or reposts an already archived briefing.
+Add the artifact, Library index update, and separate ledger row in one commit, then verify every public URL. The row becomes valid only after those read-back checks pass. An optional artifact failure never rolls back or reposts an already archived briefing.
 
 ## Failure behavior
 
@@ -67,9 +71,9 @@ Add the artifact, Library index update, and separate ledger row in one commit, t
 |---|---|
 | Telegram delivery fails | Preserve the source checkpoint and exact output; fix routing and replay Telegram. Do not archive it as published. |
 | Telegram succeeds but GitHub archival fails | Advance delivered-item state, retain the exact output, alert privately, and retry GitHub only. Do not repost Telegram. |
-| Public URL verification fails | Treat archival as incomplete and retry the same commit/push path. |
+| Archive or ledger read-back verification fails | Treat archival as incomplete and retry the same immutable commit/push/read-back path. |
 | Correction needed | Add a visible correction note and append a ledger row; do not silently rewrite history. |
-| No material Creator output | Stay silent; create no empty archive file or ledger row. |
+| Zero to two material items for any product | Stay silent and roll qualified items forward; create no empty archive file or ledger row. Three or four publish as a labelled short edition. |
 | Optional guide/skill promotion fails | Keep the verified briefing archive intact; retry only the artifact, Library index, and ledger commit. |
 
 ## Durable-guide threshold
@@ -84,4 +88,4 @@ If the credential is missing, expired, or rejected, preserve the exact delivered
 
 ## Public boundary
 
-Only reviewed public-safe Markdown enters this repository. A future chatbot may index this repository, but it must not access the private research or ingestion systems behind it.
+Only reviewed public-safe Markdown enters this repository. Personal data/PII, confidential personal information, client/account data, private research, credentials, receipts, internal identifiers, and local paths are prohibited. A future chatbot may index this repository, but it must not access the private research or ingestion systems behind it.
