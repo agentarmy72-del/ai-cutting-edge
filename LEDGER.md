@@ -16,6 +16,8 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-08-19 | Marketing Edge Brief | [Daily edition](marketing/2026/08/2026-08-19.md) | Published | 40 checks |
 | 2026-08-19 | AI News Brief | [Daily edition](news/2026/08/2026-08-19.md) | Published | 7 |
 | 2026-08-19 | Archive maintenance | [Historical format examples](examples/) | Path migration | 3 |
+| 2026-08-19 | Marketing Edge Brief | [Exact-byte terminal-newline correction](marketing/2026/08/2026-08-19.md) | Correction | — |
+| 2026-08-19 | AI News Brief | [Exact-byte terminal-newline correction](news/2026/08/2026-08-19.md) | Correction | — |
 
 ## Status vocabulary
 
