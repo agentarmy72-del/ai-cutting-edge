@@ -2,11 +2,12 @@
 
 **Question:** What useful open-source AI software is available, and is it practical and credible enough to try?
 
-Dated editions live under `YYYY/MM/`. Projects with continuing practical value may receive one canonical reviewed guide under [`guides/`](guides/), indexed from the [Practical Library](../library/).
+Exact delivered editions live under `YYYY/MM/`. Projects with continuing practical value may receive one canonical reviewed guide under [`guides/`](guides/), indexed from the [Practical Library](../library/).
 
-## Current contents
+## Browse
 
-- [17 August 2026 — approved format sample](2026/08/2026-08-17-approved-sample.md)
+- [Delivered editions](2026/)
+- [Historical format example](../examples/github-radar-2026-08-17-approved-sample.md)
 - [oMLX — local AI inference on Apple Silicon](guides/jundot-omlx.md)
 
 ## Editorial contract

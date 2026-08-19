@@ -8,7 +8,7 @@ This repository is the durable public layer behind the Telegram briefings. Teleg
 - If three or four qualify, publish a daily short edition and display exactly `**Short edition — <reason>**` below its date.
 - If zero to two qualify, hold them over and publish nothing.
 - Never use filler or lower the evidence bar for either a normal or short edition.
-- Historical approved AI samples in this repository predate this daily normal/short-edition rule and demonstrate card format only.
+- Historical approved AI samples live only under [`examples/`](examples/) and are not part of the dated publication record.
 
 ## Briefing footer
 
@@ -34,6 +34,8 @@ This wording is deliberate. It links readers to the public archive and Library w
 10. Fetch the public ledger, require the new row to be present, and require its archive link to resolve.
 11. Mark the archive operation complete only after both read-back checks pass.
 
+Steps 5–11 are performed by a private post-delivery publisher. Its prompts, state, receipts, and logs remain outside this repository; only final public artifacts are committed.
+
 ## Paths
 
 ```text
@@ -46,9 +48,12 @@ marketing/YYYY/MM/YYYY-MM-DD.md
 marketing/guides/<slug>.md
 library/guides/<slug>.md
 library/skills/<skill-name>/SKILL.md
+examples/<historical-format-example>.md
 ```
 
 If more than one edition of the same briefing is deliberately published on one date, add a short edition suffix rather than overwriting history.
+
+Future tests and dry runs remain private. The `examples/` area contains only the three pre-existing, explicitly labelled historical format samples.
 
 ## Value routing
 
@@ -88,4 +93,4 @@ If the credential is missing, expired, or rejected, preserve the exact delivered
 
 ## Public boundary
 
-Only reviewed public-safe Markdown enters this repository. Personal data/PII, confidential personal information, client/account data, private research, credentials, receipts, internal identifiers, and local paths are prohibited. A future chatbot may index this repository, but it must not access the private research or ingestion systems behind it.
+Only reviewed public-safe Markdown enters this repository. Personal data/PII, confidential personal information, client/account data, private research, credentials, receipts, internal identifiers, local paths, cron definitions, prompts, job IDs, checkpoints, pending payloads, operational logs, and test or dry-run artifacts are prohibited. A future chatbot may index this repository, but it must not access the private research, scheduling, or ingestion systems behind it.

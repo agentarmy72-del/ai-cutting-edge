@@ -2,7 +2,11 @@
 
 **Question:** What changed, what reusable method emerged, and what credible software can affect an agency decision?
 
-Marketing Edge is delivered privately but written as broad, public-safe agency intelligence. When publication begins, exact delivered editions will live under `YYYY/MM/`. Client names, account data, personal data/PII, confidential personal information and personalised follow-up never enter this archive.
+Marketing Edge is delivered privately but written as broad, public-safe agency intelligence. Exact delivered editions live under `YYYY/MM/`. Client names, account data, personal data/PII, confidential personal information and personalised follow-up never enter this archive.
+
+## Browse
+
+- [Delivered editions](2026/)
 
 ## Three lanes
 
@@ -26,6 +30,6 @@ Marketing Edge is delivered privately but written as broad, public-safe agency i
 
 Reusable public-safe material may receive one canonical reviewed guide under [`guides/`](guides/), indexed from the [Practical Library](../library/). Only executable, reusable and genuinely tested agent procedures route to [`library/skills/`](../library/skills/).
 
-## Activation status
+## Publication status
 
-The product contract remains an implementation draft, and the representative three-lane dry-run is approved. No live edition or recurrence is represented here until the private Telegram transport test succeeds. GitHub archive/ledger publication is an independent exact-output retry path and does not block Telegram recurrence.
+The representative format and private Telegram route are verified, and recurring delivery is active. GitHub publication remains a separate exact-output operation: only the public-safe bytes actually delivered are archived.

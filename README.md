@@ -15,6 +15,7 @@ This is the public knowledge and publication archive for the **AI cutting edge**
 
 - **Public publication ledger:** [`LEDGER.md`](LEDGER.md)
 - **How new editions are stored:** [`PUBLISHING.md`](PUBLISHING.md)
+- **Historical format examples:** [`examples/`](examples/)
 
 ## Find practical value
 
@@ -41,7 +42,7 @@ The companion group is **AI cutting edge**. A permanent public `t.me` join URL h
 
 ## What never gets stored
 
-Personal data/PII, confidential personal information, private research notes, inbox material, correspondence, credentials, client/account information, local paths, internal receipt IDs, hidden prompts, or unreviewed ingestion output.
+Personal data/PII, confidential personal information, private research notes, inbox material, correspondence, credentials, client/account information, local paths, internal receipt IDs, hidden prompts, or unreviewed ingestion output. Cron definitions, prompts, job IDs, delivery receipts, checkpoints, pending payloads, operational logs, and test or dry-run artifacts also remain private.
 
 ## Publishing principles
 
@@ -55,7 +56,7 @@ Personal data/PII, confidential personal information, private research notes, in
 
 ## Current contents
 
-The repository contains three approved AI card-format samples, two approved example guides, an approved Marketing Edge dry-run awaiting private transport verification, plus a Practical Library that indexes durable value. GitHub archival readiness is tracked independently and does not block Telegram delivery. The AI samples predate the current daily normal/short-edition rule and mandatory GitHub footer, demonstrate style only, and are not represented as live recurring editions.
+The repository contains dated delivered editions for AI News, GitHub Radar, and Marketing Edge, plus two approved example guides and a Practical Library that indexes durable value. Creator dated archives begin only when a qualifying edition is actually delivered; silent days create no file. Three historical format samples are retained separately under [`examples/`](examples/) and are not part of the dated publication record.
 
 ## Reuse
 

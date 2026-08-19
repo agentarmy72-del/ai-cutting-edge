@@ -2,11 +2,12 @@
 
 **Question:** What materially changed in AI, and who does it affect?
 
-Dated editions live under `YYYY/MM/`. Most news remains in the daily archive. A separate guide under [`../library/guides/`](../library/guides/) is created only for continuing changes such as model capability, pricing, standards, regulation, security posture, or platform availability.
+Exact delivered editions live under `YYYY/MM/`. Most news remains in the daily archive. A separate guide under [`../library/guides/`](../library/guides/) is created only for continuing changes such as model capability, pricing, standards, regulation, security posture, or platform availability.
 
-## Current sample
+## Browse
 
-- [17 August 2026 — approved format sample](2026/08/2026-08-17-approved-sample.md)
+- [Delivered editions](2026/)
+- [Historical format example](../examples/ai-news-2026-08-17-approved-sample.md)
 
 ## Editorial contract
 
