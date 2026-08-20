@@ -18,6 +18,10 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-08-19 | Archive maintenance | [Historical format examples](examples/) | Path migration | 3 |
 | 2026-08-19 | Marketing Edge Brief | [Exact-byte terminal-newline correction](marketing/2026/08/2026-08-19.md) | Correction | — |
 | 2026-08-19 | AI News Brief | [Exact-byte terminal-newline correction](news/2026/08/2026-08-19.md) | Correction | — |
+| 2026-08-19 | GitHub Radar | [Daily edition](github/2026/08/2026-08-19.md) | Published | 5 |
+| 2026-08-20 | Marketing Edge Brief | [Daily edition](marketing/2026/08/2026-08-20.md) | Published | 41 checks |
+| 2026-08-20 | AI News Brief | [Daily edition](news/2026/08/2026-08-20.md) | Published | 6 |
+| 2026-08-20 | GitHub Radar | [Daily edition](github/2026/08/2026-08-20.md) | Published | 6 |
 
 ## Status vocabulary
 
