@@ -37,6 +37,9 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-08-25 | Marketing Edge Brief | [Daily edition](marketing/2026/08/2026-08-25.md) | Published | 209 checks |
 | 2026-08-25 | AI News Brief | [Daily edition](news/2026/08/2026-08-25.md) | Published | 6 |
 | 2026-08-25 | GitHub Radar | [Daily edition](github/2026/08/2026-08-25.md) | Published | 7 |
+| 2026-08-26 | Marketing Edge Brief | [Daily edition](marketing/2026/08/2026-08-26.md) | Published | 260 checks |
+| 2026-08-26 | AI News Brief | [Daily edition](news/2026/08/2026-08-26.md) | Published | 7 |
+| 2026-08-26 | GitHub Radar | [Daily edition](github/2026/08/2026-08-26.md) | Published | 7 |
 
 ## Status vocabulary
 
