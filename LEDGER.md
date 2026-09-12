@@ -102,3 +102,5 @@ This append-only ledger records material made publicly available through AI Cutt
 - Never expose private source-system identifiers.
 - The file link, date, briefing type, status, and source count are required.
 - When an unchanged artifact moves to a clearer public location, update its link and append a path-migration row rather than hiding the move.
+| 2026-09-12 | Marketing Edge Brief | [Daily edition](marketing/2026/09/2026-09-12.md) | Published | 69 checks |
+| 2026-09-12 | AI News Brief | [Daily edition](news/2026/09/2026-09-12.md) | Published | 7 |
