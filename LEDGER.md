@@ -120,3 +120,6 @@ This append-only ledger records material made publicly available through AI Cutt
 | 2026-09-19 | AI News Brief | [Daily edition](news/2026/09/2026-09-19.md) | Published | 7 |
 | 2026-09-19 | GitHub Radar | [Daily edition](github/2026/09/2026-09-19.md) | Published | 4 |
 | 2026-09-20 | GitHub Radar | [Daily edition](github/2026/09/2026-09-20.md) | Published | 5 |
+| 2026-09-21 | Marketing Edge Brief | [Daily edition](marketing/2026/09/2026-09-21.md) | Published | 213 checks |
+| 2026-09-21 | AI News Brief | [Daily edition](news/2026/09/2026-09-21.md) | Published | 8 |
+| 2026-09-21 | GitHub Radar | [Daily edition](github/2026/09/2026-09-21.md) | Published | 5 |
